@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Livin Lawrence from India. I work as a Mobile App developer in Android and Flutter. 
+- 🔭 I’m currently working for TCS
+- 🌱 I’m currently learning jetpack Compose
+
 <!--
 **Livinlawrence/Livinlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
