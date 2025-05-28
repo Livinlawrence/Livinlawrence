@@ -6,6 +6,6 @@ I'm Livin Lawrence, a passionate Mobile Developer from India, specializing in An
 - 🌱 I’m diving deep into **Artificial Intelligence (AI)** and Machine Learning (ML).
 - 🔬 I'm actively experimenting with integrating AI concepts into various projects, including mobile and web applications.
 - 💬 Ask me about: Android, Kotlin, Jetpack Compose, and my AI learning journey!
-- 📫 How to reach me: [Your LinkedIn] / [Your Email] (<- Add your links here!)
+- 📫 How to reach me: https://www.linkedin.com/in/livin-lawrence-bb12a246/"
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Livinlawrence/Livinlawrence/blob/main/devcard.svg" width="400" alt="Livin Lawrence's Dev Card"/></a>
