@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-I'm Livin Lawrence from India. I work as a Mobile App developer in Android and Flutter. 
-- 🔭 I’m currently working for TCS
-- 🌱 I’m currently learning jetpack Compose
+I'm Livin Lawrence, a passionate Mobile Developer from India, specializing in Android with Kotlin and Jetpack Compose. I enjoy crafting intuitive and high-performance mobile experiences.
 
-<!--
-**Livinlawrence/Livinlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a Mobile App Developer at **TCS**.
+- 🌱 I’m diving deep into **Artificial Intelligence (AI)** and Machine Learning (ML).
+- 🔬 I'm actively experimenting with integrating AI concepts into various projects, including mobile and web applications.
+- 💬 Ask me about: Android, Kotlin, Jetpack Compose, and my AI learning journey!
+- 📫 How to reach me: [Your LinkedIn] / [Your Email] (<- Add your links here!)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Livinlawrence/Livinlawrence/blob/main/devcard.svg" width="400" alt="Livin Lawrence's Dev Card"/></a>
